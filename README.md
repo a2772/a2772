@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a2772
 - 👀 I’m interested in learning about technology which includes: IA, programming, blockchain, IOT, and video games using those technologies and the metaverses!
-- 🌱 I’m currently learning programming and about blockchain industry.
-- 💞️ I’m looking to collaborate on a viedogame and programming proyects.
+- 🌱 I’m currently learning programming and about web projects, blockchain, desktop apps, IA and videogames.
+- 💞️ I’m looking to collaborate on a viedogame and web proyects.
 - 📫 How to reach me paris.140815@gmail.com
 
 <!---
