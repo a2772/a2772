@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @a2772
+- 👋 Hi, I’m Paris Ramíres aka @a2772 
 - 👀 I’m interested in learning about technology which includes: IA, programming, IOT, and video games.
 - 🌱 I’m currently learning programming and about web projects, desktop apps, mobile apps.
 - 💞️ I’m looking to collaborate on web proyects.
